@@ -47,7 +47,7 @@ class PoiGet(object):
 
 
 if __name__ == '__main__':
-    a = PoiGet().parsePoi(40.056885091681, 116.30814954222)
+    a = PoiGet().parsePoi(39.980217, 116.309335)
 
     print 'a',a
     for k in a.keys():

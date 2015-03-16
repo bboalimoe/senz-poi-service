@@ -70,5 +70,7 @@ poitype_dict = {
     u"教育培训":"training",
     u"汽车服务":"car",
     u"医疗":"hospital",
+    u"酒店":"hotel"
+
 
 }
